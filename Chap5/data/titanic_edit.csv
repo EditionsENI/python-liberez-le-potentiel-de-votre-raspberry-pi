@@ -1,0 +1,2 @@
+survived,pclass,sex,age,sibsp,parch,fare,embarked,class,who,adult_male,deck,embark_town,alive,alone
+0,3,male,32.0,0,0,7.75,Q,Third,man,False,,Queenstown,no,False
